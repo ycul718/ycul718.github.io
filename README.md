@@ -1,15 +1,15 @@
-# 小貓熊物種比較
+# 小貓熊品種比較
 
-本專案提供兩種小貓熊物種（喜馬拉雅小貓熊與中華小貓熊）的外觀、棲息地、遺傳等比較資訊，並使用 GitHub Pages 發佈網頁。
+本專案為一個靜態 HTML 頁面，呈現兩種小貓熊（Red Panda）的品種比較資訊，包括外觀特徵、習性、地理分布與圖片。
 
-## 線上瀏覽
+## 使用說明
 
-請將此專案部署於 GitHub Pages，網址範例如：
+1. 開啟 `index.html` 可瀏覽比較表。
+2. 確保 `img/` 資料夾中包含以下圖片：
+   - `himalayan.jpg`：喜馬拉雅小貓熊
+   - `styani.jpg`：中華小貓熊
 
-```
-https://your-username.github.io/red-panda-site/
-```
+## 圖片來源
 
-## 使用
-
-HTML 文件可直接用於教學展示、科展資料、或配合 pandas 網頁爬蟲練習。
+- [Red Panda Full Body](https://commons.wikimedia.org/wiki/File:RedPandaFullBody.JPG) – Wikimedia Commons
+- [Ailurus styani in Beijing Zoo](https://commons.wikimedia.org/wiki/File:Ailurus_styani_in_Beijing_Zoo_02.JPG) – Wikimedia Commons
