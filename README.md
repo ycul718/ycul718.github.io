@@ -1,15 +1,53 @@
-# 小貓熊品種比較
+# 小貓熊物種比較網頁
 
-本專案為一個靜態 HTML 頁面，呈現兩種小貓熊（Red Panda）的品種比較資訊，包括外觀特徵、習性、地理分布與圖片。
+這是一個關於小貓熊（Red Panda）兩個主要物種比較的網頁專案。本專案詳細介紹了喜馬拉雅小貓熊（*Ailurus fulgens*）與中華小貓熊（*Ailurus styani*）的特徵差異、棲息地、習性等資訊。
 
-## 使用說明
+## 專案內容
 
-1. 開啟 `index.html` 可瀏覽比較表。
-2. 確保 `img/` 資料夾中包含以下圖片：
-   - `himalayan.jpg`：喜馬拉雅小貓熊
-   - `styani.jpg`：中華小貓熊
+- 基本介紹：小貓熊的兩個物種簡介
+- 圖片展示：包含兩種小貓熊的清晰圖片
+- 詳細比較：表格形式展示兩種小貓熊在外觀、棲息地、遺傳特徵等方面的差異
+- 科學參考：提供相關資料來源連結
 
-## 圖片來源
+## 檔案說明
 
-- [Red Panda Full Body](https://commons.wikimedia.org/wiki/File:RedPandaFullBody.JPG) – Wikimedia Commons
-- [Ailurus styani in Beijing Zoo](https://commons.wikimedia.org/wiki/File:Ailurus_styani_in_Beijing_Zoo_02.JPG) – Wikimedia Commons
+- `index.html`：主要的網頁文件，包含所有內容和樣式
+- `himalayan.jpg`：喜馬拉雅小貓熊的照片
+- `styani.jpg`：中華小貓熊的照片
+
+## 使用方式
+
+1. 將專案克隆或下載到本地
+2. 確保圖片檔案 `himalayan.jpg` 和 `styani.jpg` 與 `index.html` 檔案位於同一個資料夾中
+3. 在瀏覽器中打開 `index.html` 檔案即可瀏覽內容
+
+### 圖片問題排解
+
+如果無法顯示圖片：
+- 確認圖片檔案名稱是否正確（區分大小寫）
+- 確認圖片檔案與HTML檔案在相同目錄下
+- 右鍵點擊網頁空白處，選擇「檢查」或「開發者工具」，查看圖片載入錯誤的具體原因
+
+## 教學用途
+
+本網頁適合用於：
+- 生物多樣性教育
+- 瀕危物種保護意識宣導
+- 科學知識普及
+- 中學生物課程輔助教材
+
+## 技術細節
+
+- 使用純HTML和CSS設計
+- 響應式設計，適合在不同設備上瀏覽
+- 無需任何JavaScript或後端支持
+
+## 資料來源
+
+- 中華小貓熊 - 維基百科
+- 臺北旅遊網
+- 窩窩網站資訊圖表
+
+## 授權資訊
+
+本專案僅供教育用途使用。圖片版權歸原作者所有。
